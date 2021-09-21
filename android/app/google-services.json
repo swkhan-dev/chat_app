@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "291939584438",
+    "project_id": "chat-app-cf23d",
+    "storage_bucket": "chat-app-cf23d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291939584438:android:be88ba1d5eecf68f2b9917",
+        "android_client_info": {
+          "package_name": "com.shahwalikhan.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291939584438-31rmfflvqlm3hmo4m898f5q1k5cdvbft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ62-6ybw_ilYVIgp901uQs7h7JaZ2Csk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291939584438-31rmfflvqlm3hmo4m898f5q1k5cdvbft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
